@@ -4,3 +4,4 @@ print("Hello world!")
 ![pies](animals/dog.jpg)
 ds
 ![pies2](animals/dog2.jpg)
+drugi pies na obrazku
